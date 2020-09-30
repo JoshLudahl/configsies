@@ -1,3 +1,3 @@
 #!/bin/bash
-brew ops > ops
-brew flavor list > flavor
+brew leaves > leaves
+brew cask list > casks

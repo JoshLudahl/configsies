@@ -1,4 +1,5 @@
 adoptopenjdk
+burp-suite
 eloston-chromium
 firefox
 flux
@@ -7,9 +8,12 @@ qbittorrent
 rectangle
 scroll-reverser
 sensiblesidebuttons
-vegrant
+slack
+spotify
+vagrant
 virtualbox
 visual-studio-code
 vlc
 wireshark
+xquartz
 zotero
