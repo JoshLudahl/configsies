@@ -70,5 +70,4 @@ CASKS=(
 echo "Installing cask apps..."
 brew cask install ${CASKS[@]}
 
-
 echo "Macbook setup completed!"
