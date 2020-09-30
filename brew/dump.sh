@@ -47,7 +47,6 @@ brew link --force readline
 # Homebrew casks
 CASKS=(
     adoptopenjdk
-    burp-suite
     eloston-chromium
     firefox
     flux
